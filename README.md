@@ -1,7 +1,8 @@
 # App
 
 ### 各類保障頁面
-![S__207904779_0](https://github.com/user-attachments/assets/56f07183-e68c-463b-a33b-48160304b1ae)
+![首頁](https://github.com/user-attachments/assets/1d3ec49a-f3ac-41cd-b7ed-836c84963bff)
+
 
 ### 切換至其他保障頁面
 ![S__207904778_0](https://github.com/user-attachments/assets/d00126e3-8029-4066-9e1c-185bd998dd09)
